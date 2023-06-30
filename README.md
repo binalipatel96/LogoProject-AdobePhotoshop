@@ -1,2 +1,2 @@
 # LogoProject-AdobePhotoshop
-Create Logo using photoshop
+Created Logo using Photoshop
